@@ -16,7 +16,6 @@ import static com.example.mockdemo.messenger.SendingStatus.SENT;
 public class MessageServiceFake implements MessageService {
 
     public MessageServiceFake() {
-        // TODO Auto-generated constructor stub
     }
 
     // Jako że to tylko atrapa nie uwzględanim relanego podłączenia do sieci i sprawdzania czy dany serwer istniej
